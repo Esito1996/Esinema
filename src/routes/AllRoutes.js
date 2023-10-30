@@ -8,7 +8,7 @@ export const AllRoutes = () => {
     <div className="dark:bg-darkbg">
      <Routes>
         <Route index element={ <MovieList apiPath="movie/now_playing" title="Home" /> } />
-        <Route path="" element={ <MovieList apiPath="movie/now_playing" title="Home" /> } />
+        <Route path={`/${""}`} element={ <MovieList apiPath="movie/now_playing" title="Home" /> } />
         <Route path="/" element={ <MovieList apiPath="movie/now_playing" title="Home" /> } />
         <Route path="movie/:id" element={ <MovieDetail /> } />
         <Route path="movies/popular" element={ <MovieList apiPath="movie/popular" title="Popular" /> } />
