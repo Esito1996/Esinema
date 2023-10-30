@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Esinema/static/css/main.be0dd716.css",
-    "main.js": "/Esinema/static/js/main.8c804f6d.js",
+    "main.js": "/Esinema/static/js/main.ae5cee93.js",
     "static/media/backup.jpg": "/Esinema/static/media/backup.176245d71801d4d099ed.jpg",
     "static/media/logo.jpg": "/Esinema/static/media/logo.059c9afe312945d41dfd.jpg",
     "static/media/404-pagenotfound.webp": "/Esinema/static/media/404-pagenotfound.1284205755345bd0b5a1.webp",
     "index.html": "/Esinema/index.html",
     "main.be0dd716.css.map": "/Esinema/static/css/main.be0dd716.css.map",
-    "main.8c804f6d.js.map": "/Esinema/static/js/main.8c804f6d.js.map"
+    "main.ae5cee93.js.map": "/Esinema/static/js/main.ae5cee93.js.map"
   },
   "entrypoints": [
     "static/css/main.be0dd716.css",
-    "static/js/main.8c804f6d.js"
+    "static/js/main.ae5cee93.js"
   ]
 }
